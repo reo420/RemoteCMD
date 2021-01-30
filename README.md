@@ -8,4 +8,6 @@ For the networking part I only used winsock, and I only tested it on localhost.
 
 # RemoteCMD is in BETA, this is only a preview.
 
+![alt text](https://github.com/0xStressedd/RemoteCMD/blob/main/Screenshot%202021-01-30%20151618.png)
+
 
