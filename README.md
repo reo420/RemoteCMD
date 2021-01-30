@@ -20,4 +20,8 @@ kill - deletes the client <br />
 
 ![alt text](https://github.com/0xStressedd/RemoteCMD/blob/main/Screenshot%202021-01-30%20151618.png)
 
+# Connecting:
+
+![alt text](https://github.com/0xStressedd/RemoteCMD/blob/main/demo.gif)
+
 
