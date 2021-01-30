@@ -7,12 +7,12 @@ This only accesses the Windows Command Prompt of the target, nothing more, but s
 For the networking part I only used winsock, and I only tested it on localhost.
 
 Features/Commands:
-zombies - view your zombies connected to the server
-help - shows help
-useful - useful cmd commands
-select + (the number of the client shown in the zombies menu) - Selects the client and connects to its cmd.
-leave - leaves the session
-kill - deletes the client
+zombies - view your zombies connected to the server <br />
+help - shows help <br />
+useful - useful cmd commands <br />
+select + (the number of the client shown in the zombies menu) - Selects the client and connects to its cmd. <br />
+leave - leaves the session <br />
+kill - deletes the client <br />
 
 
 
