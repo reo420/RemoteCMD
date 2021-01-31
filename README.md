@@ -14,12 +14,11 @@ select + (the number of the client shown in the zombies menu) - Selects the clie
 leave - leaves the session <br />
 kill - deletes the client <br />
 
-# Currently in BETA, you dont have access to the source code, and you can only test it on localhost, no IP/DNS/PORT setting allowed.
 
 
 
-# RemoteCMD is in BETA, this is only a preview.
 
+# RemoteCMD is in BETA, i will work on new features, too!
 ![alt text](https://github.com/0xStressedd/RemoteCMD/blob/main/Screenshot%202021-01-30%20151618.png)
 
 # Connecting:
