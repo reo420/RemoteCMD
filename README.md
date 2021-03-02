@@ -1,4 +1,7 @@
 # RemoteCMD
+
+# I DO NOT CONDOME THE USAGE OF THIS, USE IT AT YOUR OWN RISK!
+
 A backdoor which is similar to Meterpreter.
 
 This is a very useful backdoor, it is actually a reverse shell. 
