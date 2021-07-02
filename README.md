@@ -1,6 +1,5 @@
 # RemoteCMD
 
-# I DO NOT CONDOME THE USAGE OF THIS, USE IT AT YOUR OWN RISK!
 
 A backdoor which is similar to Meterpreter.
 
@@ -16,16 +15,5 @@ useful - useful cmd commands <br />
 select + (the number of the client shown in the zombies menu) - Selects the client and connects to its cmd. <br />
 leave - leaves the session <br />
 kill - deletes the client <br />
-
-
-
-
-
-# RemoteCMD is in BETA, i will work on new features, too!
-![alt text](https://github.com/0xStressedd/RemoteCMD/blob/main/Screenshot%202021-01-30%20151618.png)
-
-# Connecting:
-
-![alt text](https://github.com/0xStressedd/RemoteCMD/blob/main/demo.gif)
 
 
